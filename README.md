@@ -16,7 +16,7 @@
 * **Nombre:** Leonardo Zambrano  
 * **Ocupación:** Estudiante de Ciencias Computacionales  
 * **Lugar de residencia:** Guayaquil, Ecuador  
-* **Correo:** [leonardo.zambrano@example.com](mailto:ltzambra@espol.edu.ec)
+* **Correo:** [ltzambra@espol.edu.ec](mailto:ltzambra@espol.edu.ec)
 
 ---
 
