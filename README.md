@@ -35,7 +35,7 @@ Aquí están algunos de los proyectos en los que he trabajado:
    *Tecnologías utilizadas:* Java.
 
 3. **[Juego De Adivinanza Con Interfaz](https://github.com/randyRivera0/Polinator.git)**  
-   *Estado:* En desarrollo ⚙️  
+   *Estado:* Completado ✅ 
    *Descripción:* Un juego interactivo con interfaz gráfica que desafía al usuario a adivinar palabras o números.  
    *Tecnologías utilizadas:* Java, JavaFX.
 
